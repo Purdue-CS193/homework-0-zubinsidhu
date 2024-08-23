@@ -1,3 +1,26 @@
+# Zubin Sidhu's First CS193 Homework
+- We get to learn how to utilize useful tools used in real world software development
+- The course is taught by students so we get are more connected in experiences
+- We are learning practical skills rather than theory
+
+1. **I have bolded this text**
+
+2. _This text has been italicized_
+
+3. 'System.out.println("Hello World");'
+
+4. [Link](https://github.com/zubinsidhu)
+
+```markdown
+I put the same stuff above to try the markdown feature
+1. **I have bolded this text**
+
+2. _This text has been italicized_
+
+3. 'System.out.println("Hello World");'
+```
+
+# Instructional Content
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
